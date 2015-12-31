@@ -4,8 +4,15 @@
         <description><![CDATA[New York ]]></description>
         <link>https://thegrid.ai/new-york/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 21:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 21:49:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/new-york/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Walking and thinking !</p>]]></description>
+            <link>https://thegrid.ai/new-york/d37e5190-aecd-447d-8be0-25f5fe4ed079/index.html</link>
+            <guid isPermaLink="false">d37e5190-aecd-447d-8be0-25f5fe4ed079</guid>
+            <pubDate>Thu, 31 Dec 2015 21:49:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71540bd9-5bff-425b-ac94-c2a359fca183.jpg">]]></description>
