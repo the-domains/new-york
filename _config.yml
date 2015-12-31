@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8659508
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.9653409
+  lightness: 0.8630504
   brandStrength: 1
-  rhythmicContrast: 0.2265358
   brandColors:
-    - '#FCE8B5'
-    - '#021F39'
-    - '#659187'
-    - '#9AA390'
-    - '#766553'
-  lightness: 0.3582821
+    - '#3A65B4'
+    - '#304B5C'
+    - '#64A3EC'
+    - '#0E1517'
+    - '#9B9187'
+  rhythmicContrast: 0.8136413
+typography_spectrum: 0.8659508
 layout_spectrum: 0.9661654
 name: 'New York '
