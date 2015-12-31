@@ -1,14 +1,26 @@
-layout_spectrum: 0.2153247
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8659508
 color:
   saturation: 0.9653409
-  lightness: 0.3582821
   brandStrength: 1
+  rhythmicContrast: 0.2265358
   brandColors:
     - '#FCE8B5'
     - '#021F39'
     - '#659187'
     - '#9AA390'
     - '#766553'
-  rhythmicContrast: 0.2265358
+  lightness: 0.3582821
+layout_spectrum: 0.9661654
 name: 'New York '
