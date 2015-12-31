@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[New York ]]></title>
         <description><![CDATA[New York ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/new-york/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:55:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 18:00:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/new-york/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Walking and thinking !</p>]]></description>
+            <link>https://thegrid.ai/new-york/d37e5190-aecd-447d-8be0-25f5fe4ed079/index.html</link>
+            <guid isPermaLink="false">d37e5190-aecd-447d-8be0-25f5fe4ed079</guid>
+            <pubDate>Thu, 31 Dec 2015 17:59:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/970295a7-3d80-443f-804e-397956f3a318.jpg" alt="" title="">]]></description>
-            <link>undefined413af6e0-ed33-4ab7-bd96-c2466892f351/index.html</link>
+            <link>https://thegrid.ai/new-york/413af6e0-ed33-4ab7-bd96-c2466892f351/index.html</link>
             <guid isPermaLink="false">413af6e0-ed33-4ab7-bd96-c2466892f351</guid>
             <pubDate>Thu, 31 Dec 2015 17:55:26 GMT</pubDate>
         </item>
