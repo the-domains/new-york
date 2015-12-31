@@ -1,0 +1,14 @@
+layout_spectrum: 0.2153247
+typography_spectrum: 0.8659508
+color:
+  saturation: 0.9653409
+  lightness: 0.3582821
+  brandStrength: 1
+  brandColors:
+    - '#FCE8B5'
+    - '#021F39'
+    - '#659187'
+    - '#9AA390'
+    - '#766553'
+  rhythmicContrast: 0.2265358
+name: 'New York '
